@@ -9,9 +9,8 @@ const Card = ({ image, title, link }) => {
             </div>
             <div className="cardcontent">
                 <h2>{title}</h2>
-                <a href={link} className="cardbutton">Learn More</a>
-            </div>
-        </div>
+                <a href={link} className="cardbutton">More Info</a>
+            </div> </div>
     )
 }
 

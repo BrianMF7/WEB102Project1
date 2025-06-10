@@ -1,19 +1,19 @@
-.titleContainer {
+.titleHolder {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 2rem;
-    padding: 2rem;
-}
+              gap: 2rem;
+          padding: 2rem;
+        }
 
-.titleContainer h1 {
+.titleHolder h1 {
     margin: 0;
     font-size: 2.5rem;
-    color: #333;
-}
+         color: #333;
+        }
 
 .soccerBall {
     width: 60px;
     height: 60px;
-}
+    }
 

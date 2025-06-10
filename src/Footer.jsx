@@ -4,9 +4,10 @@ import './Footer.css'
 const Footer = () => {
     return (
         <footer className="footer">
-            <p>© 2024 Queens Soccer Fields</p>
+            <p>© 2025 Queens Soccer Fields</p>
             <p>By Brian Martinez Flores</p>
-        </footer>
+            <p>All fields are open to the public and are in Queens, NY</p>
+                </footer>
     )
 }
 
